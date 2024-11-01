@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+.background-primary {
+    background-color: #407F83!important;
+}
+
+.card-2-bg {
+    background-color: #77C0BB!important;
+}
+
+.card-3-bg {
+    background-color: #2C6069!important;
+}
+
+
+.font-outfit {
+    font-family: "Outfit", sans-serif!important;
+    font-optical-sizing: auto;
+}
+
+.hero {
+    background-image: url(../img/Hero.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center 30%;
+}
